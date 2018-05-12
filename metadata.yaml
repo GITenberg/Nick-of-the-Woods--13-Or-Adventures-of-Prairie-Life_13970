@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '5306'
     url: http://www.gutenberg.org/2009/agents/5306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13970#Nick-of-the-Woods--13-Or-Adventures-of-Prairie-Life
 gutenberg_issued: '2004-11-07'
 gutenberg_type: Text
 identifiers:
